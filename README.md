@@ -1,5 +1,7 @@
 **Multipotentialite with diverse interests across technology, natural sciences, and creative fields.**
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hectoronian&langs_count=15)
+
 ### Game Developer:  
 Proficient in Android Studio, Unity3D, and Game Anti-Cheat Testing.
 
