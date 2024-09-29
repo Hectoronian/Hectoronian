@@ -1,4 +1,5 @@
-**Multipotentialite with diverse interests across technology, natural sciences, and creative fields.**
+# Multipotentialite
+**With diverse interests across technology, natural sciences, and creative fields.**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hectoronian&langs_count=15)
 
