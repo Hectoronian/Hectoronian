@@ -33,3 +33,6 @@ I have a passion for fantasy creation and enjoy blending 3D elements with real l
 
 ### Tinkerer:  
 Exploring Generative AI, Deep Learning, AI for Sports, Robotics, Mechanical & Electrical Engineering.
+
+### Hobbies:  
+Chess, Boxing, and Pickleball
