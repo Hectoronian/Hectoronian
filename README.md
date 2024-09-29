@@ -35,4 +35,4 @@ I have a passion for fantasy creation and enjoy blending 3D elements with real l
 Exploring Generative AI, Deep Learning, AI for Sports, Robotics, Mechanical & Electrical Engineering.
 
 ### Hobbies:  
-Chess, Boxing, and Pickleball
+Chess, Boxing, Microsoldering and tinkering with electronics, Music compositing, Piano and Violin player, and Pickleball
