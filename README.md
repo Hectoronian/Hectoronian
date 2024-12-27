@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hectoronian&layout=compact)
 
 ### Game Developer:  
-Proficient in Android Studio, Unity3D, and Game Anti-Cheat Testing.
+Developer in Android Studio, Unity3D, and Game Anti-Cheat Testing.
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,unity,)](https://skillicons.dev)
 
