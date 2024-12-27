@@ -1,10 +1,10 @@
 # Multipotentialite
-**With diverse interests across technology, natural sciences, and creative fields.**
+**With diverse interests across technology**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hectoronian&layout=compact)
 
-### Game Developer:  
-Developer in Android Studio, Unity3D, and Game Anti-Cheat Testing.
+### Game Anti Cheat Tester:  
+Developer tester in Android Studio, Unity3D, and Game Anti-Cheat Testing.
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,unity,)](https://skillicons.dev)
 
@@ -12,9 +12,6 @@ Developer in Android Studio, Unity3D, and Game Anti-Cheat Testing.
 Experienced in Pentesting, Digital Forensics, Network Monitoring, Reverse Engineering, Anti-Debugging, and Android Pentesting/Forensics.
 
 [![My Skills](https://skillicons.dev/icons?i=kali,linux)](https://skillicons.dev)
-
-### Passionate About Natural Sciences:  
-Curious about Physics, Quantum Computing, Cryptanalysis, Mathematics, Statistics, and Black Hole research.
 
 ### Technology Expertise:  
 Skilled in Business Intelligence, Microsoft Power Platform (Power BI, Automate, PowerApps), Powershell Automation, Data Science, Database Management, Vulnerability and Risk Analysis.
